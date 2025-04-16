@@ -1,0 +1,29 @@
+.add{
+    margin: 3px;
+    padding: 2px;
+    background-color: rgb(109, 85, 77);
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+.input{
+    margin: 3px;
+    padding: 15px;
+    background-color: rgb(190, 236, 250);
+    color: white;
+    width: 20%;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    margin-left: 10px;
+}
+.card {
+    width: 18rem;
+    
+  }
+#cards{
+    margin: 10px;
+    padding: 5px;
+}
